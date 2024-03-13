@@ -58,6 +58,3 @@ statsmodels - version 0.12.2.
 ## Contact (GitHub)
 Created by: arjun_038
 
-
-## Connect with me on LinkedIn:-
-- [shubhanshu001](https://www.linkedin.com/in/shubhanshu001/)
