@@ -24,7 +24,6 @@
 - How well those variables describe the bike demands
 > Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors. :
 
-![bike_image](./images/bike_image.jpg)
 
 ## Business Goal:
 > We are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
@@ -48,17 +47,17 @@ The following files are present inside datasets folder:
 - Conclusion
 
 ## Technologies Used
-- Python - version 3.8.8
-- Numpy - version 1.20.1
-- Pandas - version 1.2.4
-- Matplotlib - version 3.3.4
-- Seaborn - version 0.11.1
-- sklearn - version 0.24.1
-- statsmodels - version 0.12.2.
+Python - version 3.11.5
+Matplotlib - version 3.7.2
+Numpy - version 1.24.3
+Pandas - version 2.0.3
+Seaborn - version 0.12.2
+sklearn - version 0.24.1
+statsmodels - version 0.12.2.
 
 ## Contact (GitHub)
-Created by: 
-- [Shubhanshu Kumar Singh](https://github.com/shubhanshu1995) 
+Created by: arjun_038
+
 
 ## Connect with me on LinkedIn:-
 - [shubhanshu001](https://www.linkedin.com/in/shubhanshu001/)
